@@ -1,0 +1,41 @@
+{
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2021-12-16 23:04:29 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2021-12-16 23:04:29 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-12-16 23:04:29 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2021-12-16 23:04:29 +0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2021-12-16 23:04:42 +0600",
+      "minecraft:ocean": "2021-12-16 23:42:19 +0600",
+      "minecraft:plains": "2021-12-16 23:04:49 +0600"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2021-12-16 23:04:29 +0600"
+    },
+    "done": true
+  },
+  "DataVersion": 2865
+}

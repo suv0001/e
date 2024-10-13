@@ -1,20 +1,3 @@
 {
-  "registers": {
-    "charmander": {
-      "normal": {
-        "isShiny": false,
-        "status": "CAUGHT",
-        "discoveredTimestamp": 1728797869554,
-        "caughtTimestamp": 1728797869554
-      }
-    },
-    "growlithe": {
-      "normal": {
-        "isShiny": false,
-        "status": "CAUGHT",
-        "discoveredTimestamp": 1728798003673,
-        "caughtTimestamp": 1728798003673
-      }
-    }
-  }
+  "registers": {}
 }
