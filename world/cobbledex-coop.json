@@ -1,3 +1,12 @@
 {
-  "registers": {}
+  "registers": {
+    "charmander": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1729048729747,
+        "caughtTimestamp": 1729048729747
+      }
+    }
+  }
 }
