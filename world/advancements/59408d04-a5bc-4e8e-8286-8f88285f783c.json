@@ -15,9 +15,12 @@
       "minecraft:sparse_jungle": "2024-10-16 17:47:18 +0000",
       "minecraft:river": "2024-10-14 11:52:16 +0000",
       "minecraft:lukewarm_ocean": "2024-10-16 17:00:29 +0000",
+      "minecraft:dripstone_caves": "2024-10-17 09:47:38 +0000",
       "minecraft:forest": "2024-10-16 16:40:41 +0000",
       "minecraft:lush_caves": "2024-10-17 04:50:00 +0000",
       "minecraft:jungle": "2024-10-16 16:46:21 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-10-17 09:20:03 +0000",
+      "minecraft:deep_dark": "2024-10-17 10:06:57 +0000",
       "minecraft:meadow": "2024-10-14 11:53:20 +0000",
       "minecraft:plains": "2024-10-14 11:50:58 +0000"
     },
@@ -848,6 +851,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_persim_berry": "2024-10-17 17:00:23 +0000",
       "obtain_oran_berry": "2024-10-15 11:12:41 +0000"
     },
     "done": false
@@ -1858,7 +1862,9 @@
     "criteria": {
       "quick_ball": "2024-10-16 06:59:06 +0000",
       "great_ball": "2024-10-16 07:11:06 +0000",
+      "timer_ball": "2024-10-17 14:15:01 +0000",
       "ancient_poke_ball": "2024-10-16 13:10:29 +0000",
+      "ancient_great_ball": "2024-10-17 16:52:57 +0000",
       "ultra_ball": "2024-10-16 17:23:22 +0000",
       "slate_ball": "2024-10-16 17:19:17 +0000"
     },
@@ -1886,6 +1892,7 @@
     "criteria": {
       "minecraft:pillager": "2024-10-16 16:40:01 +0000",
       "minecraft:skeleton": "2024-10-16 07:06:04 +0000",
+      "minecraft:spider": "2024-10-17 09:49:23 +0000",
       "minecraft:creeper": "2024-10-16 08:03:04 +0000",
       "minecraft:phantom": "2024-10-16 13:15:17 +0000",
       "minecraft:zombified_piglin": "2024-10-16 07:19:29 +0000",
@@ -2012,18 +2019,21 @@
   },
   "cobblemon:catch_all_vivillon": {
     "criteria": {
+      "continental": "2024-10-17 17:42:28 +0000",
       "meadow": "2024-10-16 13:10:29 +0000"
     },
     "done": false
   },
   "cobblemon:craft_ancient_balls": {
     "criteria": {
-      "ancient_poke_ball": "2024-10-16 13:10:29 +0000"
+      "ancient_poke_ball": "2024-10-16 13:10:29 +0000",
+      "ancient_great_ball": "2024-10-17 16:52:57 +0000"
     },
     "done": false
   },
   "cobblemon:catch_all_vivillon_but_actually": {
     "criteria": {
+      "continental": "2024-10-17 17:42:28 +0000",
       "meadow": "2024-10-16 13:10:29 +0000"
     },
     "done": false
@@ -2727,6 +2737,402 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-10-17 07:43:54 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_leader_brock": {
+    "criteria": {
+      "first_defeat": "2024-10-17 08:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-10-17 08:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-10-17 08:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-10-17 08:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-10-17 08:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2024-10-17 08:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2024-10-17 08:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2024-10-17 08:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-17 08:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-17 08:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2024-10-17 08:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2024-10-17 08:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-17 08:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-17 08:42:45 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_leader_misty": {
+    "criteria": {
+      "first_defeat": "2024-10-17 09:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-10-17 09:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-10-17 09:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-10-17 09:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-10-17 09:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-10-17 09:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-10-17 09:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-10-17 09:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-10-17 09:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-10-17 09:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-10-17 09:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-10-17 09:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-10-17 09:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-10-17 09:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-10-17 09:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-10-17 09:54:13 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_leader_lt_surge": {
+    "criteria": {
+      "first_defeat": "2024-10-17 11:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-10-17 11:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-10-17 11:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-10-17 11:29:31 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/weakness_policy": {
+    "criteria": {
+      "has_paper": "2024-10-17 11:29:31 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/red_card": {
+    "criteria": {
+      "has_paper": "2024-10-17 11:29:31 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/spell_tag": {
+    "criteria": {
+      "has_item": "2024-10-17 11:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-10-17 11:29:31 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/blunder_policy": {
+    "criteria": {
+      "has_paper": "2024-10-17 11:29:31 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/braised_vivichoke": {
+    "criteria": {
+      "has_vivichoke": "2024-10-17 13:25:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/braised_vivichoke_by_smoking": {
+    "criteria": {
+      "has_vivichoke": "2024-10-17 13:25:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/vivichoke_dip": {
+    "criteria": {
+      "has_vivichoke": "2024-10-17 13:25:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/braised_vivichoke_by_campfire": {
+    "criteria": {
+      "has_vivichoke": "2024-10-17 13:25:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/vivichoke_seeds": {
+    "criteria": {
+      "has_vivichoke": "2024-10-17 13:25:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_vivichoke": {
+    "criteria": {
+      "check_inv": "2024-10-17 13:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-10-17 15:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-10-17 15:09:46 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_leek": {
+    "criteria": {
+      "check_inv": "2024-10-17 15:33:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/medicinal_leek_to_magenta_dye": {
+    "criteria": {
+      "has_leek": "2024-10-17 15:33:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
+    "criteria": {
+      "has_leek": "2024-10-17 15:33:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek": {
+    "criteria": {
+      "has_leek": "2024-10-17 15:33:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
+    "criteria": {
+      "has_leek": "2024-10-17 15:33:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/power_band": {
+    "criteria": {
+      "has_mint": "2024-10-17 15:42:53 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/rash_mint": {
+    "criteria": {
+      "has_detriment_mint": "2024-10-17 15:42:53 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/calm_mint": {
+    "criteria": {
+      "has_benefit_mint": "2024-10-17 15:42:53 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/sassy_mint": {
+    "criteria": {
+      "has_benefit_mint": "2024-10-17 15:42:53 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/gentle_mint": {
+    "criteria": {
+      "has_benefit_mint": "2024-10-17 15:42:53 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/naughty_mint": {
+    "criteria": {
+      "has_detriment_mint": "2024-10-17 15:42:53 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/careful_mint": {
+    "criteria": {
+      "has_benefit_mint": "2024-10-17 15:42:53 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/lax_mint": {
+    "criteria": {
+      "has_detriment_mint": "2024-10-17 15:42:53 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:obtain_mint": {
+    "criteria": {
+      "check_inv": "2024-10-17 15:42:53 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_all_mints": {
+    "criteria": {
+      "obtain_pink_mint_leaf": "2024-10-17 15:42:53 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/naive_mint": {
+    "criteria": {
+      "has_detriment_mint": "2024-10-17 15:42:53 +0000"
+    },
+    "done": false
+  },
+  "rctmod:trainers/defeat_leader_erika": {
+    "criteria": {
+      "first_defeat": "2024-10-17 18:42:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:brew_all": {
+    "criteria": {
+      "obtain_antidote": "2024-10-17 17:55:29 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/max_revive": {
+    "criteria": {
+      "has_revive": "2024-10-17 17:05:43 +0000"
     },
     "done": true
   },
