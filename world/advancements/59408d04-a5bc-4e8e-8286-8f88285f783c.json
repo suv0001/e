@@ -7,6 +7,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-10-18 11:36:28 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-10-18 12:11:55 +0000",
+      "minecraft:taiga": "2024-10-18 12:07:29 +0000",
+      "minecraft:deep_ocean": "2024-10-18 12:21:38 +0000",
+      "minecraft:frozen_river": "2024-10-18 09:34:22 +0000",
       "minecraft:cherry_grove": "2024-10-14 11:51:08 +0000",
       "minecraft:birch_forest": "2024-10-16 16:44:01 +0000",
       "minecraft:bamboo_jungle": "2024-10-16 17:26:05 +0000",
@@ -15,13 +20,29 @@
       "minecraft:sparse_jungle": "2024-10-16 17:47:18 +0000",
       "minecraft:river": "2024-10-14 11:52:16 +0000",
       "minecraft:lukewarm_ocean": "2024-10-16 17:00:29 +0000",
+      "minecraft:snowy_plains": "2024-10-18 09:47:18 +0000",
+      "minecraft:stony_shore": "2024-10-18 11:43:41 +0000",
       "minecraft:dripstone_caves": "2024-10-17 09:47:38 +0000",
+      "minecraft:snowy_taiga": "2024-10-18 09:34:00 +0000",
+      "minecraft:grove": "2024-10-18 09:48:06 +0000",
+      "minecraft:swamp": "2024-10-18 09:10:31 +0000",
+      "minecraft:cold_ocean": "2024-10-18 12:12:08 +0000",
       "minecraft:forest": "2024-10-16 16:40:41 +0000",
       "minecraft:lush_caves": "2024-10-17 04:50:00 +0000",
+      "minecraft:frozen_ocean": "2024-10-18 09:34:21 +0000",
+      "minecraft:desert": "2024-10-19 05:23:39 +0000",
+      "minecraft:windswept_forest": "2024-10-18 09:46:57 +0000",
+      "minecraft:deep_frozen_ocean": "2024-10-18 11:42:45 +0000",
       "minecraft:jungle": "2024-10-16 16:46:21 +0000",
+      "minecraft:ocean": "2024-10-18 12:21:22 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-10-18 12:08:14 +0000",
+      "minecraft:snowy_beach": "2024-10-18 09:34:16 +0000",
+      "minecraft:warm_ocean": "2024-10-19 05:23:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-10-17 09:20:03 +0000",
+      "minecraft:old_growth_birch_forest": "2024-10-19 04:54:54 +0000",
       "minecraft:deep_dark": "2024-10-17 10:06:57 +0000",
       "minecraft:meadow": "2024-10-14 11:53:20 +0000",
+      "minecraft:savanna": "2024-10-18 12:40:54 +0000",
       "minecraft:plains": "2024-10-14 11:50:58 +0000"
     },
     "done": false
@@ -851,7 +872,10 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_payapa_berry": "2024-10-18 13:20:51 +0000",
+      "obtain_rawst_berry": "2024-10-19 05:25:36 +0000",
       "obtain_persim_berry": "2024-10-17 17:00:23 +0000",
+      "obtain_razz_berry": "2024-10-18 13:21:03 +0000",
       "obtain_oran_berry": "2024-10-15 11:12:41 +0000"
     },
     "done": false
@@ -1892,14 +1916,18 @@
     "criteria": {
       "minecraft:pillager": "2024-10-16 16:40:01 +0000",
       "minecraft:skeleton": "2024-10-16 07:06:04 +0000",
+      "minecraft:zoglin": "2024-10-19 06:18:18 +0000",
+      "minecraft:hoglin": "2024-10-19 03:59:44 +0000",
       "minecraft:spider": "2024-10-17 09:49:23 +0000",
       "minecraft:creeper": "2024-10-16 08:03:04 +0000",
       "minecraft:phantom": "2024-10-16 13:15:17 +0000",
       "minecraft:zombified_piglin": "2024-10-16 07:19:29 +0000",
+      "minecraft:husk": "2024-10-19 05:26:29 +0000",
       "minecraft:cave_spider": "2024-10-17 04:54:36 +0000",
       "minecraft:piglin": "2024-10-17 04:40:12 +0000",
       "minecraft:enderman": "2024-10-16 16:38:08 +0000",
-      "minecraft:zombie": "2024-10-16 15:58:19 +0000"
+      "minecraft:zombie": "2024-10-16 15:58:19 +0000",
+      "minecraft:drowned": "2024-10-18 11:39:44 +0000"
     },
     "done": false
   },
@@ -3118,21 +3146,563 @@
     },
     "done": false
   },
+  "cobblemon:recipes/consumables/max_revive": {
+    "criteria": {
+      "has_revive": "2024-10-17 17:05:43 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:brew_all": {
+    "criteria": {
+      "obtain_potion": "2024-10-18 12:08:42 +0000",
+      "obtain_antidote": "2024-10-17 17:55:29 +0000"
+    },
+    "done": false
+  },
   "rctmod:trainers/defeat_leader_erika": {
     "criteria": {
       "first_defeat": "2024-10-17 18:42:26 +0000"
     },
     "done": true
   },
-  "cobblemon:brew_all": {
+  "cobblemon:recipes/consumables/remedy": {
     "criteria": {
-      "obtain_antidote": "2024-10-17 17:55:29 +0000"
+      "has_root": "2024-10-18 08:37:04 +0000",
+      "has_the_recipe": "2024-10-18 08:37:04 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/remedy_by_smoking": {
+    "criteria": {
+      "has_root": "2024-10-18 08:37:04 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/remedy_by_campfire": {
+    "criteria": {
+      "has_root": "2024-10-18 08:37:04 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_big_root": {
+    "criteria": {
+      "check_inv": "2024-10-18 08:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-18 09:13:00 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/transportation/apricorn_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-18 09:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-18 09:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-18 09:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-18 09:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-18 09:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-18 09:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-18 09:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-18 09:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-10-18 09:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-18 11:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-18 11:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-18 11:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-18 11:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-18 11:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-18 11:40:11 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/relic_coin_pouch": {
+    "criteria": {
+      "has_coin": "2024-10-18 11:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-10-18 11:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-10-18 11:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-10-18 11:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-10-18 11:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-18 11:48:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/cell_battery": {
+    "criteria": {
+      "has_copper": "2024-10-18 11:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-18 11:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-18 11:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-10-18 11:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-10-18 11:58:15 +0000"
     },
     "done": false
   },
-  "cobblemon:recipes/consumables/max_revive": {
+  "cobblemon:recipes/balls/ancient_poke_ball": {
     "criteria": {
-      "has_revive": "2024-10-17 17:05:43 +0000"
+      "has_tumblestone": "2024-10-18 11:58:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_great_ball": {
+    "criteria": {
+      "has_tumblestone": "2024-10-18 11:58:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_tumblestone": {
+    "criteria": {
+      "check_inv": "2024-10-18 11:58:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_citrine_ball": {
+    "criteria": {
+      "has_tumblestone": "2024-10-18 11:58:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_roseate_ball": {
+    "criteria": {
+      "has_tumblestone": "2024-10-18 11:58:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_slate_ball": {
+    "criteria": {
+      "has_tumblestone": "2024-10-18 11:58:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_ultra_ball": {
+    "criteria": {
+      "has_tumblestone": "2024-10-18 11:58:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_azure_ball": {
+    "criteria": {
+      "has_tumblestone": "2024-10-18 11:58:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_ivory_ball": {
+    "criteria": {
+      "has_tumblestone": "2024-10-18 11:58:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_verdant_ball": {
+    "criteria": {
+      "has_tumblestone": "2024-10-18 11:58:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/tumblestone_block": {
+    "criteria": {
+      "has_tumblestone": "2024-10-18 11:58:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:brew_potion": {
+    "criteria": {
+      "check_inv": "2024-10-18 12:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-10-18 12:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-10-18 12:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-10-18 12:23:47 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_fossil": {
+    "criteria": {
+      "check_inv": "2024-10-18 12:26:41 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/eviolite": {
+    "criteria": {
+      "has_everstone": "2024-10-18 12:27:58 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/berry_juice": {
+    "criteria": {
+      "has_berries": "2024-10-18 13:20:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2024-10-18 14:32:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2024-10-18 14:32:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-19 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-19 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2024-10-19 03:59:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-19 04:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-10-19 04:02:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/backpack_tank": {
+    "criteria": {
+      "has_iron": "2024-10-19 04:03:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-19 04:03:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_tier_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-19 04:03:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hose_nozzle": {
+    "criteria": {
+      "has_iron": "2024-10-19 04:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-10-19 04:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-10-19 04:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-10-19 04:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-10-19 04:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-10-19 04:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-10-19 04:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-10-19 04:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-10-19 04:13:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-10-19 04:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-10-19 04:13:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2024-10-19 04:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-10-19 04:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-10-19 04:13:08 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/beast_ball": {
+    "criteria": {
+      "has_diamond": "2024-10-19 04:13:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-10-19 04:13:08 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_leaden_ball": {
+    "criteria": {
+      "has_black_tumblestone": "2024-10-19 04:16:29 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/black_tumblestone_block": {
+    "criteria": {
+      "has_tumblestone": "2024-10-19 04:16:29 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_gigaton_ball": {
+    "criteria": {
+      "has_black_tumblestone": "2024-10-19 04:16:29 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_heavy_ball": {
+    "criteria": {
+      "has_black_tumblestone": "2024-10-19 04:16:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2024-10-19 04:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-10-19 05:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-10-19 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-10-19 05:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-10-19 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-10-19 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2024-10-19 06:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-10-19 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-10-19 05:34:32 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2024-10-19 05:36:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2024-10-19 05:37:34 +0000"
     },
     "done": true
   },
