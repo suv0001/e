@@ -3166,6 +3166,7 @@
   },
   "cobblemon:brew_all": {
     "criteria": {
+      "obtain_awakening": "2024-10-21 12:53:51 +0000",
       "obtain_hyper_potion": "2024-10-19 11:57:23 +0000",
       "obtain_potion": "2024-10-18 12:08:42 +0000",
       "obtain_antidote": "2024-10-17 17:55:29 +0000"
@@ -4151,15 +4152,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/muscle_band": {
+  "rctmod:trainers/defeat_leader_clair": {
     "criteria": {
-      "has_wool": "2024-10-21 10:30:43 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
-    "criteria": {
-      "has_yellow_wool": "2024-10-21 10:30:43 +0000"
+      "first_defeat": "2024-10-21 10:10:07 +0000"
     },
     "done": true
   },
@@ -4169,21 +4164,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_bed": {
-    "criteria": {
-      "has_yellow_wool": "2024-10-21 10:30:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-10-21 10:29:24 +0000"
-    },
-    "done": true
-  },
-  "rctmod:trainers/defeat_trainer_brendan": {
-    "criteria": {
-      "first_defeat": "2024-10-21 10:43:59 +0000"
     },
     "done": true
   },
@@ -4199,6 +4182,24 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/muscle_band": {
+    "criteria": {
+      "has_wool": "2024-10-21 10:30:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
+    "criteria": {
+      "has_yellow_wool": "2024-10-21 10:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2024-10-21 10:30:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2024-10-21 10:30:43 +0000"
@@ -4211,9 +4212,45 @@
     },
     "done": true
   },
-  "rctmod:trainers/defeat_leader_clair": {
+  "rctmod:trainers/defeat_trainer_brendan": {
     "criteria": {
-      "first_defeat": "2024-10-21 10:10:07 +0000"
+      "first_defeat": "2024-10-21 10:43:59 +0000"
+    },
+    "done": true
+  },
+  "megamons:gen1_05_charizarditex_stone": {
+    "criteria": {
+      "has_cut_charizarditex": "2024-10-21 16:38:17 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_elite_four": {
+    "criteria": {
+      "first_defeat": "2024-10-21 17:11:08 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/icy_rock": {
+    "criteria": {
+      "has_stone": "2024-10-21 17:43:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice_using_stone": {
+    "criteria": {
+      "has_ice": "2024-10-21 17:43:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice": {
+    "criteria": {
+      "has_the_recipe": "2024-10-21 17:43:13 +0000"
+    },
+    "done": true
+  },
+  "megamons:gen1_07_gengarite_stone": {
+    "criteria": {
+      "has_cut_gengarite": "2024-10-21 18:06:20 +0000"
     },
     "done": true
   },
