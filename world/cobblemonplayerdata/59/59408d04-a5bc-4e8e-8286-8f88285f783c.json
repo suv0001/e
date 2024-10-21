@@ -1808,6 +1808,160 @@
             "status": "SEEN",
             "discoveredTimestamp": 1729494005450
           }
+        },
+        "duraludon": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729504938050
+          }
+        },
+        "melmetal": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729504951600
+          }
+        },
+        "aggron": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729504964247
+          }
+        },
+        "clefable": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729505029898
+          }
+        },
+        "magearna": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729505180846
+          }
+        },
+        "naganadel": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729505272341
+          }
+        },
+        "dracovish": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729505328142
+          }
+        },
+        "dragonite": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729505356559
+          }
+        },
+        "vibrava": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729505613697
+          }
+        },
+        "cramorant": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729505627904
+          }
+        },
+        "kartana": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729505693356
+          }
+        },
+        "barbaracle": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729505724697
+          }
+        },
+        "bronzong": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729506004921
+          }
+        },
+        "dodrio": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729506557191
+          }
+        },
+        "murkrow": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729506729249
+          }
+        },
+        "toucannon": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729506752056
+          }
+        },
+        "passimian": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729506913816
+          }
+        },
+        "conkeldurr": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729506932811
+          }
+        },
+        "deoxys": {
+          "attack": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729507167491
+          }
+        },
+        "huntail": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729507203089
+          }
+        },
+        "jirachi": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729507227042
+          }
+        },
+        "landorus": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1729507271890
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1828,10 +1982,10 @@
     "totalCaptureCount": 84,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 14,
-    "totalBattleVictoryCount": 307,
+    "totalBattleVictoryCount": 318,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 221,
-    "totalPvNBattleVictoryCount": 86,
+    "totalPvWBattleVictoryCount": 223,
+    "totalPvNBattleVictoryCount": 95,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
@@ -1856,7 +2010,7 @@
     },
     "totalDefeatedCounts": {
       "cobblemon:pidgeotto": 2,
-      "cobblemon:bouffalant": 18,
+      "cobblemon:bouffalant": 19,
       "cobblemon:bunnelby": 1,
       "cobblemon:buneary": 3,
       "cobblemon:eevee": 3,
@@ -1931,7 +2085,8 @@
       "cobblemon:sawsbuck": 1,
       "cobblemon:rayquaza": 2,
       "cobblemon:mewtwo": 1,
-      "cobblemon:darmanitan": 1
+      "cobblemon:darmanitan": 1,
+      "cobblemon:mareep": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [

@@ -1799,6 +1799,160 @@
         "status": "SEEN",
         "discoveredTimestamp": 1729494005451
       }
+    },
+    "duraludon": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729504938053
+      }
+    },
+    "melmetal": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729504951602
+      }
+    },
+    "aggron": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729504964249
+      }
+    },
+    "clefable": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729505029900
+      }
+    },
+    "magearna": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729505180847
+      }
+    },
+    "naganadel": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729505272342
+      }
+    },
+    "dracovish": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729505328144
+      }
+    },
+    "dragonite": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729505356560
+      }
+    },
+    "vibrava": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729505613699
+      }
+    },
+    "cramorant": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729505627905
+      }
+    },
+    "kartana": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729505693358
+      }
+    },
+    "barbaracle": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729505724698
+      }
+    },
+    "bronzong": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729506004922
+      }
+    },
+    "dodrio": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729506557192
+      }
+    },
+    "murkrow": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729506729250
+      }
+    },
+    "toucannon": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729506752058
+      }
+    },
+    "passimian": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729506913817
+      }
+    },
+    "conkeldurr": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729506932813
+      }
+    },
+    "deoxys": {
+      "attack": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729507167493
+      }
+    },
+    "huntail": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729507203091
+      }
+    },
+    "jirachi": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729507227043
+      }
+    },
+    "landorus": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1729507271891
+      }
     }
   }
 }

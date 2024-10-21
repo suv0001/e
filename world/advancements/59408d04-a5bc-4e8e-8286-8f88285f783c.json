@@ -880,7 +880,8 @@
       "obtain_razz_berry": "2024-10-18 13:21:03 +0000",
       "obtain_oran_berry": "2024-10-15 11:12:41 +0000",
       "obtain_cheri_berry": "2024-10-21 06:43:04 +0000",
-      "obtain_chople_berry": "2024-10-20 18:24:25 +0000"
+      "obtain_chople_berry": "2024-10-20 18:24:25 +0000",
+      "obtain_wepear_berry": "2024-10-21 10:22:25 +0000"
     },
     "done": false
   },
@@ -3952,45 +3953,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "rctmod:trainers/defeat_leader_blaine": {
     "criteria": {
-      "has_magma_cream": "2024-10-21 05:09:39 +0000"
+      "first_defeat": "2024-10-21 04:50:48 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/coal": {
+  "cobblemon:recipes/consumables/leek_and_potato_stew": {
     "criteria": {
-      "has_coal": "2024-10-21 05:19:53 +0000"
+      "has_leek": "2024-10-21 04:57:29 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/ghast": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_ghast_tear": "2024-10-21 05:28:16 +0000"
-    },
-    "done": true
-  },
-  "rctmod:trainers/defeat_rocket_admin_archer_2": {
-    "criteria": {
-      "first_defeat": "2024-10-21 05:37:59 +0000"
-    },
-    "done": true
-  },
-  "rctmod:trainers/defeat_team_rocket": {
-    "criteria": {
-      "first_defeat": "2024-10-21 05:27:15 +0000"
-    },
-    "done": true
-  },
-  "megamons:gen1_megastone": {
-    "criteria": {
-      "has_any_gen1_stone": "2024-10-21 06:24:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-10-21 05:07:15 +0000"
+      "fortress": "2024-10-21 05:03:29 +0000"
     },
     "done": true
   },
@@ -4006,57 +3983,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-10-21 05:08:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2024-10-21 05:10:40 +0000"
-    },
-    "done": true
-  },
-  "rctmod:trainers/defeat_leader_blaine": {
-    "criteria": {
-      "first_defeat": "2024-10-21 04:50:48 +0000"
-    },
-    "done": true
-  },
-  "megamons:mega_cuff": {
-    "criteria": {
-      "has_mega_cuff": "2024-10-21 06:08:08 +0000"
-    },
-    "done": true
-  },
-  "rctmod:trainers/defeat_rocket_admin_ariana_2": {
-    "criteria": {
-      "first_defeat": "2024-10-21 05:47:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-10-21 05:06:59 +0000"
-    },
-    "done": true
-  },
-  "megamons:gen1_11_mewtwonitey_stone": {
-    "criteria": {
-      "has_cut_mewtwonitey": "2024-10-21 06:32:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2024-10-21 05:10:40 +0000"
-    },
-    "done": true
-  },
-  "rctmod:trainers/defeat_boss_giovanni_3": {
-    "criteria": {
-      "first_defeat": "2024-10-21 05:59:10 +0000"
     },
     "done": true
   },
@@ -4072,18 +4001,6 @@
     },
     "done": true
   },
-  "megamons:gen1_10_mewtwonitex_stone": {
-    "criteria": {
-      "has_cut_mewtwonitex": "2024-10-21 06:24:57 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/leek_and_potato_stew": {
-    "criteria": {
-      "has_leek": "2024-10-21 04:57:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-10-21 05:06:59 +0000"
@@ -4093,6 +4010,24 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-10-21 05:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 05:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 05:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-10-21 05:07:15 +0000"
     },
     "done": true
   },
@@ -4108,15 +4043,15 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/magma_cube": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_magma_cream": "2024-10-21 05:09:39 +0000"
+      "has_blaze_rod": "2024-10-21 05:07:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_nether_bricks": "2024-10-21 05:06:59 +0000"
+      "has_smithing_trim_template": "2024-10-21 05:08:58 +0000"
     },
     "done": true
   },
@@ -4126,9 +4061,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_wall": {
+  "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "has_nether_bricks": "2024-10-21 05:06:59 +0000"
+      "has_magma_cream": "2024-10-21 05:09:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2024-10-21 05:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-10-21 05:10:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-10-21 05:10:40 +0000"
     },
     "done": true
   },
@@ -4138,15 +4091,129 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "travelersbackpack:recipes/misc/coal": {
     "criteria": {
-      "fortress": "2024-10-21 05:03:29 +0000"
+      "has_coal": "2024-10-21 05:19:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "rctmod:trainers/defeat_team_rocket": {
     "criteria": {
-      "has_blaze_rod": "2024-10-21 05:07:15 +0000"
+      "first_defeat": "2024-10-21 05:27:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2024-10-21 05:28:16 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_rocket_admin_archer_2": {
+    "criteria": {
+      "first_defeat": "2024-10-21 05:37:59 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_rocket_admin_ariana_2": {
+    "criteria": {
+      "first_defeat": "2024-10-21 05:47:57 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_boss_giovanni_3": {
+    "criteria": {
+      "first_defeat": "2024-10-21 05:59:10 +0000"
+    },
+    "done": true
+  },
+  "megamons:mega_cuff": {
+    "criteria": {
+      "has_mega_cuff": "2024-10-21 06:08:08 +0000"
+    },
+    "done": true
+  },
+  "megamons:gen1_megastone": {
+    "criteria": {
+      "has_any_gen1_stone": "2024-10-21 06:24:57 +0000"
+    },
+    "done": true
+  },
+  "megamons:gen1_10_mewtwonitex_stone": {
+    "criteria": {
+      "has_cut_mewtwonitex": "2024-10-21 06:24:57 +0000"
+    },
+    "done": true
+  },
+  "megamons:gen1_11_mewtwonitey_stone": {
+    "criteria": {
+      "has_cut_mewtwonitey": "2024-10-21 06:32:54 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/muscle_band": {
+    "criteria": {
+      "has_wool": "2024-10-21 10:30:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
+    "criteria": {
+      "has_yellow_wool": "2024-10-21 10:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-10-21 10:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2024-10-21 10:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-10-21 10:29:24 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_trainer_brendan": {
+    "criteria": {
+      "first_defeat": "2024-10-21 10:43:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2024-10-21 10:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-10-21 10:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2024-10-21 10:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2024-10-21 10:30:43 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_leader_clair": {
+    "criteria": {
+      "first_defeat": "2024-10-21 10:10:07 +0000"
     },
     "done": true
   },
