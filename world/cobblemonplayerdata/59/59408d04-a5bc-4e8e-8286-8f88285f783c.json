@@ -28,8 +28,9 @@
         "sneasel": {
           "hisui": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1730256093456
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1730256093456,
+            "caughtTimestamp": 1730301006799
           }
         },
         "ninjask": {
@@ -158,6 +159,76 @@
             "discoveredTimestamp": 1730274808065,
             "caughtTimestamp": 1730274924820
           }
+        },
+        "florges": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1730293170836,
+            "caughtTimestamp": 1730293402860
+          }
+        },
+        "ninetales": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1730294715602,
+            "caughtTimestamp": 1730294715602
+          }
+        },
+        "arcanine": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1730297092564,
+            "caughtTimestamp": 1730297092564
+          }
+        },
+        "venusaur": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1730297393649,
+            "caughtTimestamp": 1730297393649
+          }
+        },
+        "staryu": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1730298278751,
+            "caughtTimestamp": 1730298278751
+          }
+        },
+        "alcremie": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1730298566847
+          }
+        },
+        "lapras": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1730298796498,
+            "caughtTimestamp": 1730298796498
+          }
+        },
+        "corviknight": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1730299623648,
+            "caughtTimestamp": 1730299623648
+          }
+        },
+        "persian": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1730304256299
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -170,32 +241,40 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 13,
+    "totalCaptureCount": 20,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 21,
+    "totalEvolvedCount": 5,
+    "totalBattleVictoryCount": 52,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 16,
-    "totalPvNBattleVictoryCount": 5,
+    "totalPvWBattleVictoryCount": 39,
+    "totalPvNBattleVictoryCount": 13,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "ghost": 3,
-      "poison": 1,
+      "poison": 2,
       "bug": 1,
-      "flying": 1,
-      "water": 2,
+      "flying": 2,
+      "water": 4,
       "dragon": 1,
-      "fighting": 2,
+      "fighting": 3,
       "electric": 3,
-      "fire": 1,
-      "steel": 1,
-      "normal": 1
+      "fire": 2,
+      "steel": 2,
+      "normal": 2,
+      "fairy": 1,
+      "ice": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:geodude": 1,
-      "cobblemon:bouffalant": 1,
-      "cobblemon:miltank": 1
+      "cobblemon:bouffalant": 6,
+      "cobblemon:miltank": 3,
+      "cobblemon:stonjourner": 3,
+      "cobblemon:lapras": 1,
+      "cobblemon:alcremie": 1,
+      "cobblemon:lopunny": 1,
+      "cobblemon:sneasel": 1,
+      "cobblemon:ponyta": 2
     },
     "aspectsCollected": {}
   }

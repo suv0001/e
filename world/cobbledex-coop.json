@@ -19,8 +19,9 @@
     "sneasel": {
       "hisui": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1730256093457
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1730256093457,
+        "caughtTimestamp": 1730301006800
       }
     },
     "ninjask": {
@@ -148,6 +149,76 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1730274808066,
         "caughtTimestamp": 1730274924821
+      }
+    },
+    "florges": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1730293170840,
+        "caughtTimestamp": 1730293402861
+      }
+    },
+    "ninetales": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1730294715602,
+        "caughtTimestamp": 1730294715602
+      }
+    },
+    "arcanine": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1730297092565,
+        "caughtTimestamp": 1730297092565
+      }
+    },
+    "venusaur": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1730297393650,
+        "caughtTimestamp": 1730297393650
+      }
+    },
+    "staryu": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1730298278752,
+        "caughtTimestamp": 1730298278752
+      }
+    },
+    "alcremie": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1730298566847
+      }
+    },
+    "lapras": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1730298796499,
+        "caughtTimestamp": 1730298796499
+      }
+    },
+    "corviknight": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1730299623648,
+        "caughtTimestamp": 1730299623648
+      }
+    },
+    "persian": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1730304256299
       }
     }
   }
