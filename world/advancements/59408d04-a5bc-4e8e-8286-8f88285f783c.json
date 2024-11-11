@@ -10,6 +10,7 @@
       "minecraft:birch_forest": "2024-10-28 04:38:00 +0000",
       "minecraft:beach": "2024-10-30 02:50:39 +0000",
       "minecraft:dark_forest": "2024-10-30 02:51:47 +0000",
+      "minecraft:sparse_jungle": "2024-11-11 10:35:57 +0000",
       "minecraft:river": "2024-10-30 02:29:48 +0000",
       "minecraft:lukewarm_ocean": "2024-10-30 14:19:31 +0000",
       "minecraft:stony_shore": "2024-10-30 16:16:01 +0000",
@@ -1028,8 +1029,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-10-30 04:00:39 +0000",
+      "minecraft:hoglin": "2024-11-11 10:56:39 +0000",
       "minecraft:spider": "2024-10-30 14:55:08 +0000",
       "minecraft:zombified_piglin": "2024-10-30 15:19:28 +0000",
+      "minecraft:piglin": "2024-11-11 10:56:11 +0000",
       "minecraft:zombie": "2024-10-30 14:56:09 +0000",
       "minecraft:drowned": "2024-10-30 14:22:19 +0000"
     },
@@ -1392,9 +1395,46 @@
   "cobblemon:brew_all": {
     "criteria": {
       "obtain_ice_heal": "2024-10-30 16:15:41 +0000",
-      "obtain_burn_heal": "2024-10-30 16:15:41 +0000"
+      "obtain_burn_heal": "2024-10-30 16:15:41 +0000",
+      "obtain_potion": "2024-11-11 10:29:24 +0000"
     },
     "done": false
+  },
+  "rctmod:trainers/defeat_leader_erika": {
+    "criteria": {
+      "first_defeat": "2024-11-11 10:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-11-11 10:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-11-11 10:50:22 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:brew_potion": {
+    "criteria": {
+      "check_inv": "2024-11-11 10:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-11-11 10:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-11 10:44:02 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
