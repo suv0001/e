@@ -1,4 +1,3 @@
-
 [advanced_infuser]
 	#Can the enchanting infuser repair items using levels in addition to enchanting.
 	#Allowed Values: EVERYTHING, TOOLS_AND_ARMOR, NOTHING
@@ -24,7 +23,6 @@
 		#How many percentage points of an items total durability a single repair will restore.
 		#Range: 0.1 ~ 1.0
 		repair_percentage_step = 1.0
-
 	#The main option in this section is "maximum_cost" as it determines how many levels you'll have to pay for fully enchanting an item with all possible enchantments it can have.
 	#Cost multipliers mainly control how this maximum cost will be spread out between enchantments of different rarities.
 	[advanced_infuser.costs]
@@ -47,7 +45,6 @@
 		very_rare_cost_multiplier = 1.1
 		#When scaling costs, only account for vanilla enchantments. Otherwise enchanting costs will become ludicrously cheap with many modded enchantments present.
 		scale_costs_by_vanilla_only = true
-
 	[advanced_infuser.types]
 		#Allow curses (e.g. curse of vanishing) to be applied using the enchanting infuser.
 		#This option takes precedence over option for treasure enchantments (as curses are also treasure enchantments internally).
@@ -62,7 +59,6 @@
 		#Allow undiscoverable enchantments (e.g. soul speed) to be applied using the enchanting infuser.
 		#This option takes precedence over other options for treasure, curse and tradeable enchantments.
 		allow_undiscoverable_enchantments = true
-
 	#This section allows for controlling at what percentage of the total enchanting power certain kinds of enchantments become available.
 	#With default settings e.g. the first level of a rare enchantment will be available at 40% enchanting power (controlled by "rare_multiplier", translates to 40% * 15 = 6 bookshelves), and the maximum level for that enchant will be available at 40% + 40% = 80% enchanting power (controlled by "rare_multiplier" and "rarity_range_multiplier", translates to 80% * 15 = 12 bookshelves).
 	[advanced_infuser.power]
@@ -97,7 +93,6 @@
 		#Multiplier for maximum enchanting power for when uncommon enchantments become available.
 		#Range: -1.0 ~ 1.0
 		uncommon_multiplier = 0.2
-
 [normal_infuser]
 	#Can the enchanting infuser repair items using levels in addition to enchanting.
 	#Allowed Values: EVERYTHING, TOOLS_AND_ARMOR, NOTHING
@@ -123,7 +118,6 @@
 		#How many percentage points of an items total durability a single repair will restore.
 		#Range: 0.1 ~ 1.0
 		repair_percentage_step = 1.0
-
 	#The main option in this section is "maximum_cost" as it determines how many levels you'll have to pay for fully enchanting an item with all possible enchantments it can have.
 	#Cost multipliers mainly control how this maximum cost will be spread out between enchantments of different rarities.
 	[normal_infuser.costs]
@@ -146,7 +140,6 @@
 		very_rare_cost_multiplier = 1.1
 		#When scaling costs, only account for vanilla enchantments. Otherwise enchanting costs will become ludicrously cheap with many modded enchantments present.
 		scale_costs_by_vanilla_only = true
-
 	[normal_infuser.types]
 		#Allow curses (e.g. curse of vanishing) to be applied using the enchanting infuser.
 		#This option takes precedence over option for treasure enchantments (as curses are also treasure enchantments internally).
@@ -161,7 +154,6 @@
 		#Allow undiscoverable enchantments (e.g. soul speed) to be applied using the enchanting infuser.
 		#This option takes precedence over other options for treasure, curse and tradeable enchantments.
 		allow_undiscoverable_enchantments = true
-
 	#This section allows for controlling at what percentage of the total enchanting power certain kinds of enchantments become available.
 	#With default settings e.g. the first level of a rare enchantment will be available at 40% enchanting power (controlled by "rare_multiplier", translates to 40% * 15 = 6 bookshelves), and the maximum level for that enchant will be available at 40% + 40% = 80% enchanting power (controlled by "rare_multiplier" and "rarity_range_multiplier", translates to 80% * 15 = 12 bookshelves).
 	[normal_infuser.power]
@@ -196,9 +188,7 @@
 		#Multiplier for maximum enchanting power for when uncommon enchantments become available.
 		#Range: -1.0 ~ 1.0
 		uncommon_multiplier = 0.2
-
 [integration]
 	#Enable compat for Apotheosis if it is installed. Allows for using the full range of changes Apotheosis applies to vanilla enchantments.
 	#Should only really be disabled if compat breaks due to internal changes.
 	apotheosis_integration = true
-

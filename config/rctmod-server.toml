@@ -1,4 +1,3 @@
-
 [Spawning]
 	#A comma separated list of biome tags (e.g. ["is_overworld", "is_forest"]). A biome may not have any of the given tags attached to it, for a trainer to spawn in that biome. Trainers may also have additional tags defined by a data pack.
 	biomeTagBlacklist = []
@@ -28,7 +27,6 @@
 	#The maximum level difference between the strongest pokemon in the team of a player and the strongest pokemon in the team of a trainer to spawn for that player. The spawn weight decreases with a higher level difference. Trainers with pokemon above the level cap of a player are excluded.
 	#Range: 0 ~ 100
 	maxLevelDiff = 25
-
 [Players]
 	#Initial level cap of players. Pokemon will not gain any experience if at or above the level cap.
 	#Range: 1 ~ 100
@@ -37,8 +35,6 @@
 	bonusLevelCap = 0
 	#Trainers will refuse to battle players that have pokemon in their party with a level greater than the set value + the level cap of the player. This value can also be negative.
 	maxOverLevelCap = 35
-
 [Debug]
 	#If enabled additional information are printed to the log whenever a trainer spawns or despawns.
 	logSpawning = false
-

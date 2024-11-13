@@ -3,6 +3,7 @@
   "maxPokemonLevel": 100,
   "maxPokemonFriendship": 255,
   "announceDropItems": true,
+  "defaultDropItemMethod": "ON_ENTITY",
   "ambientPokemonCryTicks": 1080,
   "defaultBoxCount": 30,
   "pokemonSaveIntervalSeconds": 30,
@@ -51,7 +52,7 @@
   "baseApricornTreeGenerationChance": 0.1,
   "ninjaskCreatesShedinja": true,
   "displayEntityLevelLabel": true,
-  "shinyRate": 8192.0,
+  "shinyRate": 1.0,
   "captureCalculator": "cobblemon",
   "playerDamagePokemon": true,
   "appleLeftoversChance": 0.025,
@@ -65,6 +66,6 @@
   "pastureMaxWanderDistance": 64,
   "pastureMaxPerChunk": 4.0,
   "maxInsertedFossilItems": 2,
-  "walkingInBattleAnimations": false,
+  "walkingInBattleAnimations": true,
   "enableDebugKeys": false
 }
