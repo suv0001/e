@@ -1,0 +1,1482 @@
+[04:53:29] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.7
+[04:53:30] [main/INFO]: Loading 111 mods:
+	- architectury 9.2.14
+	- biomesoplenty 19.0.0.91
+	- bookshelf 20.2.13
+	- cardinal-components 5.2.2
+	   |-- cardinal-components-base 5.2.2
+	   |-- cardinal-components-block 5.2.2
+	   |-- cardinal-components-chunk 5.2.2
+	   |-- cardinal-components-entity 5.2.2
+	   |-- cardinal-components-item 5.2.2
+	   |-- cardinal-components-level 5.2.2
+	   |-- cardinal-components-scoreboard 5.2.2
+	   \-- cardinal-components-world 5.2.2
+	- cloth-config 11.1.118
+	   \-- cloth-basic-math 0.6.1
+	- clumps 12.0.0.4
+	- cobbledex 1.1.0
+	- cobblemon 1.5.2+1.20.1
+	- cobblemontrainers 1.1.11+1.5.2
+	   \-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	- cobblemounts 1.3.1
+	   \-- com_moandjiezana_toml_toml4j 0.7.2
+	- cobblepedia 0.6.8
+	- enchantinginfuser 8.0.3
+	- fabric-api 0.92.2+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabric-language-kotlin 1.12.3+kotlin.2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.0.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.25.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.5.4
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.5.4
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.7.3
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.7.3
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.7.3
+	- fabricloader 0.16.7
+	   \-- mixinextras 0.4.1
+	- ferritecore 6.0.1
+	- forgeconfigapiport 8.0.0
+	- fwaystones 3.3.2+mc1.20.1
+	- glitchcore 0.0.1.1
+	   |-- com_electronwill_night-config_core 3.6.7
+	   |-- com_electronwill_night-config_toml 3.6.7
+	   \-- net_jodah_typetools 0.6.3
+	- jade 11.12.0+fabric
+	- java 21
+	- konkrete 1.8.1
+	- krypton 0.2.3
+	   \-- com_velocitypowered_velocity-native 3.2.0-SNAPSHOT
+	- lithium 0.11.2
+	- livelier-pokemon 1.0.2
+	- megamons 1.5.0+1.20.1-forge+fabric-75b66fa
+	- memoryleakfix 1.1.5
+	- minecraft 1.20.1
+	- modernfix 5.19.4+mc1.20.1
+	- mr_cobblemon_legendarystructures 1.1.1
+	- mythsandlegends 1.6.1
+	   \-- com_moandjiezana_toml_toml4j 0.7.2
+	- owo 0.11.0+1.20
+	   \-- blue_endless_jankson 1.2.2
+	- patchouli 1.20.1-84-FABRIC
+	   \-- fiber 0.23.0-2
+	- puzzleslib 8.1.24
+	   \-- puzzlesaccessapi 8.0.7
+	- rctmod 0.12.0-beta
+	- simpletms 1.1.2
+	- terrablender 3.0.1.7
+	   |-- com_electronwill_night-config_core 3.6.7
+	   \-- com_electronwill_night-config_toml 3.6.7
+	- travelersbackpack 9.1.18
+	   \-- reach-entity-attributes 2.4.0
+	- worldedit 7.2.15+6463-5ca4dff
+[04:53:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/e/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[04:53:31] [main/INFO]: Compatibility level set to JAVA_16
+[04:53:31] [main/INFO]: Compatibility level set to JAVA_17
+[04:53:31] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 3 override(s) found
+[04:53:31] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:53:31] [main/INFO]: Loaded configuration file for ModernFix 5.19.4+mc1.20.1: 61 options available, 0 override(s) found
+[04:53:31] [main/INFO]: Applying Nashorn fix
+[04:53:31] [main/WARN]: Error loading class: juuxel/adorn/block/variant/BlockVariantSets (java.lang.ClassNotFoundException: juuxel/adorn/block/variant/BlockVariantSets)
+[04:53:31] [main/WARN]: @Mixin target juuxel.adorn.block.variant.BlockVariantSets was not found mixins.cobblemon-common.json:invoker.AdornRegisterInvoker from mod cobblemon
+[04:53:32] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[04:53:32] [main/WARN]: Force-enabling mixin 'block.hopper.worldedit_compat.WorldChunkMixin' as rule 'mixin.block.hopper.worldedit_compat' (added by mods [lithium-fabric]) enables it
+[04:53:32] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[04:53:32] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[04:53:32] [main/WARN]: Error loading class: net/minecraft/class_918 (java.lang.ClassNotFoundException: net/minecraft/class_918)
+[04:53:32] [main/WARN]: @Mixin target net.minecraft.class_918 was not found mixins.rctmod.json:client.ItemRendererMixin from mod rctmod
+[04:53:32] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[04:53:32] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[04:53:32] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[04:53:32] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[04:53:32] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[04:53:32] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[04:53:35] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[04:53:35] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[04:53:35] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[04:53:38] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[04:53:38] [main/INFO]: Vanilla bootstrap took 5385 milliseconds
+[04:53:39] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[04:53:39] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[04:53:39] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[04:53:39] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[04:53:39] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[04:53:39] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[04:53:39] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[04:53:39] [main/INFO]: Initializing Cobbledex 1.1.0...
+[04:53:39] [main/INFO]: Booting LaxPermissionValidator, permissions will be checked using Minecrafts permission level system, see https://minecraft.fandom.com/wiki/Permission_level
+[04:53:39] [main/INFO]: Launching Cobblemon 1.5.2 
+[04:53:39] [main/INFO]: Booting FabricPermissionValidator, permissions will be checked using fabric-permissions-api, see https://github.com/lucko/fabric-permissions-api
+[04:53:40] [main/INFO]: Starting the Best Spawner...
+[04:53:40] [main/INFO]: Loaded 5 spawning condition types.
+[04:53:40] [main/INFO]: Loaded 5 spawning context types.
+[04:53:40] [main/INFO]: Loaded 1 spawn detail types.
+[04:53:40] [Cobblemon Showdown/INFO]: Starting showdown service...
+[04:53:43] [Cobblemon Showdown/INFO]: Showdown has been started!
+[04:53:43] [main/INFO]: Note: Cobblemon data registries are only loaded once per server instance as Pokémon species are not safe to reload.
+[04:53:43] [main/INFO]: Registered the cobblemon:species_features registry
+[04:53:43] [main/INFO]: Registered the cobblemon:global_species_features registry
+[04:53:43] [main/INFO]: Registered the cobblemon:species_feature_assignments registry
+[04:53:43] [main/INFO]: Registered the cobblemon:action_effects registry
+[04:53:43] [main/INFO]: Registered the cobblemon:moves registry
+[04:53:43] [main/INFO]: Registered the cobblemon:abilities registry
+[04:53:43] [main/INFO]: Registered the cobblemon:species registry
+[04:53:43] [main/INFO]: Registered the cobblemon:species_additions registry
+[04:53:43] [main/INFO]: Registered the cobblemon:pokeballs registry
+[04:53:43] [main/INFO]: Registered the cobblemon:properties_tab_completion registry
+[04:53:43] [main/INFO]: Registered the cobblemon:spawn_detail_presets registry
+[04:53:43] [main/INFO]: Registered the cobblemon:spawn_rules registry
+[04:53:43] [main/INFO]: Registered the cobblemon:mechanics registry
+[04:53:43] [main/INFO]: Registered the cobblemon:bag_items registry
+[04:53:43] [main/INFO]: Registered the cobblemon:dialogues registry
+[04:53:43] [main/INFO]: Registered the cobblemon:natural_materials registry
+[04:53:43] [main/INFO]: Registered the cobblemon:fossils registry
+[04:53:43] [main/INFO]: Registered the cobblemon:spawn_pool_world registry
+[04:53:43] [main/INFO]: Registered the cobblemon:berries registry
+[04:53:43] [main/INFO]: [STDOUT]: CobblemonTrainers Fabric initialized
+[04:53:43] [main/INFO]: Constructing common components for enchantinginfuser:main
+[04:53:43] [main/INFO]: Is initializing.
+[04:53:43] [main/INFO]: Has successfully been initialized.
+[04:53:44] [main/INFO]: Bypassed Mojang DFU
+[04:53:44] [main/INFO]: Instantiating Mojang DFU
+[04:53:44] [main/ERROR]: No data fixer registered for anomaly
+[04:53:45] [main/INFO]: [KONKRETE] Successfully initialized!
+[04:53:45] [main/INFO]: [KONKRETE] Server-side libs ready to use!
+[04:53:45] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[04:53:45] [main/INFO]: Initialising LivelierPokemon
+[04:53:45] [main/INFO]: Initialzing Megamons ...
+[04:53:45] [main/INFO]: Items registered
+[04:53:45] [main/INFO]: Tick Events Registered
+[04:53:45] [main/INFO]: Interaction Events Registered
+[04:53:45] [main/INFO]: Player Events Registered
+[04:53:45] [main/INFO]: Registered all conditions
+[04:53:45] [main/INFO]: :ctft: 117896 and counting
+[04:53:45] [main/INFO]: Constructing common components for puzzleslib:main
+[04:53:46] [main/INFO]: Register Mod Items for simpletms
+[04:53:46] [main/INFO]: Registering Item Groups for simpletms
+[04:53:46] [main/INFO]: Register TM and TR list for simpletms
+[04:53:46] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[04:53:46] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[04:53:46] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[04:53:46] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[04:53:46] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[04:53:46] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[04:53:46] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[04:53:46] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[04:53:46] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[04:53:46] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[04:53:46] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[04:53:47] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@417c6f1b]
+[04:53:47] [main/INFO]: WorldEdit for Fabric (version 7.2.15+6463-5ca4dff) is loaded
+[04:53:47] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[04:53:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:53:49] [main/INFO]: Registered Myths and Legends commands
+[04:53:49] [main/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/cobblebadges_6
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'cobblebadges:the_soul_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/cobblebadges_5
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'cobblebadges:the_marsh_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/cobblebadges_4
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'cobblebadges:the_rainbow_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/cobblebadges_3
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'cobblebadges:the_thunder_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/cobblebadges_8
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'cobblebadges:the_rising_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/cobblebadges_7
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'cobblebadges:the_volcano_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/cobblebadges_2
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'cobblebadges:the_cascade_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/cobblebadges_1
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'cobblebadges:the_boulder_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/pkgbadges_3
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'pkgbadges:the_thunder_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/pkgbadges_2
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'pkgbadges:the_cascade_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/pkgbadges_1
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'pkgbadges:the_boulder_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/pkgbadges_7
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'pkgbadges:the_volcano_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/pkgbadges_6
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'pkgbadges:the_soul_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/pkgbadges_5
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'pkgbadges:the_marsh_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/pkgbadges_4
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'pkgbadges:the_rainbow_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:rctmod:generic/unique/pkgbadges_8
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'pkgbadges:the_rising_badge'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_misty_019f}.pools[2].entries[0]: Unknown loot table called rctmod:generic/unique/pkgbadges_2
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_misty_019f}.pools[1].entries[0]: Unknown loot table called rctmod:generic/unique/cobblebadges_2
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_blaine_01a3}.pools[1].entries[0]: Unknown loot table called rctmod:generic/unique/cobblebadges_7
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_clair_004a}.pools[2].entries[0]: Unknown loot table called rctmod:generic/unique/pkgbadges_8
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_blaine_01a3}.pools[2].entries[0]: Unknown loot table called rctmod:generic/unique/pkgbadges_7
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_clair_004a}.pools[1].entries[0]: Unknown loot table called rctmod:generic/unique/cobblebadges_8
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_lt_surge_01a0}.pools[2].entries[0]: Unknown loot table called rctmod:generic/unique/pkgbadges_3
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_lt_surge_01a0}.pools[1].entries[0]: Unknown loot table called rctmod:generic/unique/cobblebadges_3
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_erika_01a1}.pools[2].entries[0]: Unknown loot table called rctmod:generic/unique/pkgbadges_4
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_brock_019e}.pools[2].entries[0]: Unknown loot table called rctmod:generic/unique/pkgbadges_1
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_brock_019e}.pools[1].entries[0]: Unknown loot table called rctmod:generic/unique/cobblebadges_1
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_koga_01a2}.pools[1].entries[0]: Unknown loot table called rctmod:generic/unique/cobblebadges_6
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_sabrina_01a4}.pools[1].entries[0]: Unknown loot table called rctmod:generic/unique/cobblebadges_5
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:generic/common}.pools[0].entries[5]: Unknown loot table called rctmod:generic/common/training
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:generic/common}.pools[0].entries[6]: Unknown loot table called rctmod:generic/common/evolution
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_koga_01a2}.pools[2].entries[0]: Unknown loot table called rctmod:generic/unique/pkgbadges_6
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_sabrina_01a4}.pools[2].entries[0]: Unknown loot table called rctmod:generic/unique/pkgbadges_5
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/single/leader_erika_01a1}.pools[1].entries[0]: Unknown loot table called rctmod:generic/unique/cobblebadges_4
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/default}.pools[0].entries[0]->{rctmod:generic/common}.pools[0].entries[5]: Unknown loot table called rctmod:generic/common/training
+[04:53:50] [main/WARN]: Found loot table element validation problem in {loot_tables:rctmod:trainers/default}.pools[0].entries[0]->{rctmod:generic/common}.pools[0].entries[6]: Unknown loot table called rctmod:generic/common/evolution
+[04:53:51] [main/INFO]: Loaded 7 recipes
+[04:53:51] [main/INFO]: Loaded 2223 advancements
+[04:53:55] [main/INFO]: Loaded 936 moves
+[04:53:56] [main/INFO]: Loaded 314 abilities
+[04:53:56] [main/INFO]: Finished additions
+[04:53:57] [main/INFO]: Imported 244 held item IDs from showdown
+[04:53:57] [main/INFO]: Loaded 1052 Pokémon species
+[04:53:57] [main/INFO]: Loaded 43 spawn detail presets.
+[04:53:57] [main/INFO]: Starting dummy Showdown battle to force it to pre-load data.
+[04:53:57] [main/INFO]: Loaded 16 fossils
+[04:53:58] [main/ERROR]: Unknown preset name: underground.
+[04:53:58] [main/ERROR]: Unknown preset name: underground.
+[04:53:58] [main/INFO]: Loaded 69 berries
+[04:53:58] [main/INFO]: Data pack initialized: fabric
+[04:53:59] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[04:53:59] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[04:53:59] [main/INFO]: Applied 4283 biome modifications to 134 of 134 new biomes in 37.85 ms
+[04:53:59] [Server thread/INFO]: Loading server config for enchantinginfuser
+[04:53:59] [Thread-3/INFO]: Reloading server config for enchantinginfuser
+[04:53:59] [Thread-3/INFO]: Reloading server config for enchantinginfuser
+[04:53:59] [Thread-3/INFO]: Reloading server config for enchantinginfuser
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/flower_forest_japanese/houses
+[04:53:59] [Server thread/ERROR]: Cannot add to kaisyn:village/flower_forest_japanese/houses as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village ctov:village/desert_oasis/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/desert_oasis/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/mountain_alpine/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/mountain_alpine/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/beach_lighthouse/side
+[04:53:59] [Server thread/ERROR]: Cannot add to kaisyn:village/beach_lighthouse/side as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/savanna_na/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/savanna_na/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/swamp/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/swamp/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/savanna/houses
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/snowy_igloo/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/snowy_igloo/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/nilotic/houses
+[04:53:59] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/nilotic/houses as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/badlands_pueblo/houses
+[04:53:59] [Server thread/ERROR]: Cannot add to kaisyn:village/badlands_pueblo/houses as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/tudor/houses
+[04:53:59] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/tudor/houses as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/mushroom/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/mushroom/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/mediterranean/houses/regular
+[04:53:59] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/mediterranean/houses/regular as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/taiga/houses
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/birch_forest_romanian/houses
+[04:53:59] [Server thread/ERROR]: Cannot add to kaisyn:village/birch_forest_romanian/houses as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:red_desert_village_waystone to village ctov:village/mesa_fortified/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/mesa_fortified/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/classic/houses
+[04:53:59] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/classic/houses as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/wandering_trader_camp/side
+[04:53:59] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/wandering_trader_camp/side as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village ctov:village/desert/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/desert/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/rustic/houses
+[04:53:59] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/rustic/houses as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village minecraft:village/desert/houses
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/savanna/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/savanna/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village ctov:village/beach/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/beach/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/plains/houses
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/taiga/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/taiga/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:stone_brick_village_waystone to village ctov:village/underground/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/underground/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:red_desert_village_waystone to village ctov:village/mesa/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/mesa/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/grove_villager_outpost/decor
+[04:53:59] [Server thread/ERROR]: Cannot add to kaisyn:village/grove_villager_outpost/decor as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:mossy_stone_brick_village_waystone to village ctov:village/jungle/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/jungle/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/mountain/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/mountain/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/halloween/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/halloween/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/jungle_tribal/houses
+[04:53:59] [Server thread/ERROR]: Cannot add to kaisyn:village/jungle_tribal/houses as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/iberian/houses
+[04:53:59] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/iberian/houses as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/christmas/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/christmas/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/snowy/houses
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/plains/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/plains/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/swamp_fortified/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/swamp_fortified/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/plains_fortified/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/plains_fortified/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/taiga_fortified/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/taiga_fortified/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/swedish/houses
+[04:53:59] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/swedish/houses as it cannot be found!
+[04:53:59] [Server thread/INFO]: Adding waystone fwaystones:mossy_stone_brick_village_waystone to village ctov:village/jungle_tree/house
+[04:53:59] [Server thread/ERROR]: Cannot add to ctov:village/jungle_tree/house as it cannot be found!
+[04:53:59] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[04:53:59] [Server thread/INFO]: Loading properties
+[04:53:59] [Server thread/INFO]: Default game type: SURVIVAL
+[04:53:59] [Server thread/INFO]: Generating keypair
+[04:54:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:54:00] [Server thread/INFO]: Using epoll channel type
+[04:54:00] [Server thread/INFO]: Preparing level "world"
+[04:54:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:54:00] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
+[04:54:02] [Server thread/INFO]: menu.preparingSpawn
+[04:54:02] [Server thread/INFO]: menu.preparingSpawn
+[04:54:02] [Server thread/INFO]: menu.preparingSpawn
+[04:54:02] [Server thread/INFO]: menu.preparingSpawn
+[04:54:02] [Server thread/INFO]: menu.preparingSpawn
+[04:54:03] [Server thread/INFO]: Time elapsed: 2570 ms
+[04:54:03] [Server thread/INFO]: Done (3.124s)! For help, type "help"
+[04:54:03] [Server thread/INFO]: config/trainers/config.json loaded
+[04:54:03] [Server thread/INFO]: Saved config/trainers/config.json
+[04:54:03] [Server thread/INFO]: trainers/trainerWins.json loaded
+[04:54:03] [Server thread/INFO]: trainers/timesLastBattled.json loaded
+[04:54:03] [Server thread/WARN]: Dedicated server took 35.595 seconds to load
+[04:54:03] [Server thread/INFO]: Server initialized...
+[04:54:03] [Server thread/INFO]: Loading CobbledexCoopDiscovery at "/workspaces/e/./world/./cobbledex-coop.json"...
+[04:54:03] [Server thread/INFO]: Start loading plugin from Jade
+[04:54:03] [Server thread/INFO]: Start loading plugin from Jade
+[04:54:03] [Server thread/INFO]: Start loading plugin from Jade
+[04:54:03] [Server thread/INFO]: Registered 740 trainers
+[04:54:18] [User Authenticator #1/INFO]: UUID of player Legendaryxxx is 59408d04-a5bc-4e8e-8286-8f88285f783c
+[04:54:18] [Server thread/INFO]: Legendaryxxx[/[0:0:0:0:0:0:0:1%0]:50228] logged in with entity id 90 at (9.465031558361288, 132.0, 324.49543503844666)
+[04:54:18] [Server thread/INFO]: Sending server config values to client
+[04:54:18] [Server thread/INFO]: Syncing config to Legendaryxxx (59408d04-a5bc-4e8e-8286-8f88285f783c)
+[04:54:18] [Server thread/INFO]: Loading config from file...
+[04:54:18] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[04:54:18] [Server thread/INFO]: multiplayer.player.joined
+[04:58:51] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[04:59:39] [Server thread/INFO]: [STDOUT]: Random TR Chance: 60.098682
+[04:59:39] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[04:59:52] [Server thread/INFO]: [STDOUT]: Random TR Chance: 7.425398
+[04:59:52] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[05:05:15] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[05:05:19] [Server thread/INFO]: [STDOUT]: Random TR Chance: 71.80337
+[05:05:19] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[05:06:11] [Server thread/INFO]: [STDOUT]: Random TR Chance: 86.5014
+[05:06:11] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[05:06:43] [Server thread/INFO]: [STDOUT]: Random TR Chance: 20.678455
+[05:06:43] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[05:07:24] [Server thread/INFO]: [STDOUT]: Random TR Chance: 56.1714
+[05:07:24] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[05:07:29] [Server thread/INFO]: chat.type.advancement.goal
+[05:07:29] [Server thread/INFO]: Saved trainers/trainerWins.json
+[05:14:06] [Server thread/INFO]: No battle could be found with the id: fe355f03-f01b-40a8-86b0-b2a036310a0a
+[05:14:06] [Server thread/INFO]: No battle could be found with the id: fe355f03-f01b-40a8-86b0-b2a036310a0a
+[05:24:03] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[05:25:47] [Server thread/INFO]: [STDOUT]: Random TR Chance: 53.91907
+[05:25:47] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[05:38:24] [Server thread/INFO]: No battle could be found with the id: b79d1045-e041-489b-b767-eea7f77e7d0d
+[05:38:24] [Server thread/INFO]: No battle could be found with the id: b79d1045-e041-489b-b767-eea7f77e7d0d
+[05:46:01] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[05:48:04] [Server thread/INFO]: [STDOUT]: Random TR Chance: 12.048101
+[05:48:04] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[05:53:10] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[05:53:46] [Server thread/INFO]: [STDOUT]: Random TR Chance: 23.140806
+[05:53:46] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[05:54:50] [Server thread/INFO]: [STDOUT]: Random TR Chance: 46.675037
+[05:54:50] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:05:22] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[06:07:08] [Server thread/INFO]: [STDOUT]: Random TR Chance: 54.39685
+[06:07:08] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:10:35] [Server thread/INFO]: [STDOUT]: Random TR Chance: 67.180756
+[06:10:35] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:12:44] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[06:13:13] [Server thread/INFO]: [STDOUT]: Random TR Chance: 39.557194
+[06:13:13] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:13:35] [Server thread/INFO]: [STDOUT]: Random TR Chance: 64.15371
+[06:13:35] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:17:03] [Server thread/INFO]: Legendaryxxx lost connection: multiplayer.disconnect.generic
+[06:17:03] [Server thread/INFO]: multiplayer.player.left
+[06:29:24] [User Authenticator #2/INFO]: UUID of player Legendaryxxx is 59408d04-a5bc-4e8e-8286-8f88285f783c
+[06:29:24] [Server thread/INFO]: Legendaryxxx[/[0:0:0:0:0:0:0:1%0]:49424] logged in with entity id 64558 at (-27.39470546245761, 128.0, 40.27564739425136)
+[06:29:24] [Server thread/INFO]: Sending server config values to client
+[06:29:24] [Server thread/INFO]: Syncing config to Legendaryxxx (59408d04-a5bc-4e8e-8286-8f88285f783c)
+[06:29:24] [Server thread/INFO]: Loading config from file...
+[06:29:24] [Server thread/INFO]: multiplayer.player.joined
+[06:29:24] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[06:30:23] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[06:30:55] [Server thread/INFO]: [STDOUT]: Random TR Chance: 34.629177
+[06:30:55] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:32:09] [Server thread/INFO]: [STDOUT]: Random TR Chance: 80.825584
+[06:32:09] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:32:46] [Server thread/INFO]: [STDOUT]: Random TR Chance: 59.652065
+[06:32:46] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:35:28] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[06:36:29] [Server thread/INFO]: [STDOUT]: Random TR Chance: 82.799225
+[06:36:29] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:41:54] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[06:43:20] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[06:43:35] [Server thread/INFO]: [STDOUT]: Random TR Chance: 32.927658
+[06:43:35] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:44:04] [Server thread/INFO]: [STDOUT]: Random TR Chance: 62.680443
+[06:44:04] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:45:06] [Server thread/INFO]: [STDOUT]: Random TR Chance: 65.271935
+[06:45:06] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:51:13] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[06:52:11] [Server thread/INFO]: [STDOUT]: Random TR Chance: 23.418629
+[06:52:11] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:52:16] [Server thread/INFO]: Saved trainers/trainerWins.json
+[06:52:33] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[06:52:50] [Server thread/INFO]: [STDOUT]: Random TR Chance: 88.36819
+[06:52:50] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:53:57] [Server thread/INFO]: [STDOUT]: Random TR Chance: 30.192905
+[06:53:57] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:54:44] [Server thread/INFO]: [STDOUT]: Random TR Chance: 62.01866
+[06:54:44] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:55:14] [Server thread/INFO]: [STDOUT]: Random TR Chance: 14.951313
+[06:55:14] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[06:59:09] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[06:59:24] [Server thread/INFO]: [STDOUT]: Random TR Chance: 33.82564
+[06:59:24] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:00:33] [Server thread/INFO]: [STDOUT]: Random TR Chance: 95.69164
+[07:00:33] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:00:40] [Server thread/INFO]: [STDOUT]: Random TR Chance: 44.95301
+[07:00:40] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:02:01] [Server thread/INFO]: [STDOUT]: Random TR Chance: 75.94959
+[07:02:01] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:03:42] [Server thread/INFO]: Legendaryxxx lost connection: disconnect.timeout
+[07:03:42] [Server thread/INFO]: multiplayer.player.left
+[07:04:33] [User Authenticator #3/INFO]: UUID of player Legendaryxxx is 59408d04-a5bc-4e8e-8286-8f88285f783c
+[07:04:33] [Server thread/INFO]: Legendaryxxx[/[0:0:0:0:0:0:0:1%0]:52340] logged in with entity id 90427 at (22.627710384274693, 126.0, 344.1446011880604)
+[07:04:33] [Server thread/INFO]: Sending server config values to client
+[07:04:33] [Server thread/INFO]: Syncing config to Legendaryxxx (59408d04-a5bc-4e8e-8286-8f88285f783c)
+[07:04:33] [Server thread/INFO]: Loading config from file...
+[07:04:34] [Server thread/INFO]: multiplayer.player.joined
+[07:04:34] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[07:05:51] [Server thread/INFO]: chat.type.admin
+[07:06:01] [Server thread/INFO]: chat.type.admin
+[07:07:10] [Server thread/INFO]: chat.type.admin
+[07:10:32] [Server thread/INFO]: chat.type.advancement.task
+[07:11:54] [Server thread/INFO]: chat.type.admin
+[07:12:56] [Server thread/INFO]: chat.type.advancement.task
+[07:14:09] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[07:14:31] [Server thread/INFO]: [STDOUT]: Random TR Chance: 64.63474
+[07:14:31] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:15:11] [Server thread/INFO]: [STDOUT]: Random TR Chance: 47.969444
+[07:15:11] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:16:37] [Server thread/INFO]: [STDOUT]: Random TR Chance: 31.092554
+[07:16:37] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:17:17] [Server thread/INFO]: [STDOUT]: Random TR Chance: 65.664696
+[07:17:17] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:17:32] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:78) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:67) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:74) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:69) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at com.cobblemon.mod.common.api.net.ServerNetworkPacketHandler$DefaultImpls.handleOnNettyThread$lambda$0(ServerNetworkPacketHandler.java:19) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:743) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[07:17:57] [Server thread/INFO]: [STDOUT]: Random TR Chance: 77.0311
+[07:17:57] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:18:02] [Server thread/INFO]: chat.type.advancement.goal
+[07:18:02] [Server thread/INFO]: Saved trainers/trainerWins.json
+[07:23:23] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[07:23:29] [Server thread/INFO]: [STDOUT]: Random TR Chance: 96.717964
+[07:23:29] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:24:06] [Server thread/INFO]: [STDOUT]: Random TR Chance: 5.8057013
+[07:24:06] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:24:25] [Server thread/INFO]: [STDOUT]: Random TR Chance: 84.63603
+[07:24:25] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:24:35] [Server thread/INFO]: [STDOUT]: Random TR Chance: 20.441532
+[07:24:35] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:24:40] [Server thread/INFO]: Saved trainers/trainerWins.json
+[07:29:24] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[07:29:30] [Server thread/INFO]: [STDOUT]: Random TR Chance: 60.92601
+[07:29:30] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:29:42] [Server thread/INFO]: [STDOUT]: Random TR Chance: 20.529264
+[07:29:42] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:29:51] [Server thread/INFO]: [STDOUT]: Random TR Chance: 88.54645
+[07:29:51] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:29:58] [Server thread/INFO]: [STDOUT]: Random TR Chance: 81.39568
+[07:29:58] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:30:16] [Server thread/INFO]: [STDOUT]: Random TR Chance: 93.112045
+[07:30:16] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:30:21] [Server thread/INFO]: Saved trainers/trainerWins.json
+[07:31:42] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[07:31:50] [Server thread/INFO]: [STDOUT]: Random TR Chance: 93.68895
+[07:31:50] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:32:07] [Server thread/INFO]: [STDOUT]: Random TR Chance: 48.6386
+[07:32:07] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:32:19] [Server thread/INFO]: [STDOUT]: Random TR Chance: 73.34269
+[07:32:19] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:33:15] [Server thread/INFO]: [STDOUT]: Random TR Chance: 68.84084
+[07:33:15] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:33:20] [Server thread/INFO]: Saved trainers/trainerWins.json
+[07:36:16] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[07:36:28] [Server thread/INFO]: [STDOUT]: Random TR Chance: 13.788378
+[07:36:28] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:36:33] [Server thread/INFO]: Saved trainers/trainerWins.json
+[07:36:56] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[07:37:01] [Server thread/INFO]: [STDOUT]: Random TR Chance: 5.5503964
+[07:37:01] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:37:20] [Server thread/INFO]: [STDOUT]: Random TR Chance: 12.693823
+[07:37:20] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:37:31] [Server thread/INFO]: [STDOUT]: Random TR Chance: 22.671677
+[07:37:31] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:37:39] [Server thread/INFO]: [STDOUT]: Random TR Chance: 9.549368
+[07:37:39] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:37:44] [Server thread/INFO]: Saved trainers/trainerWins.json
+[07:38:34] [Server thread/INFO]: [STDOUT]: Random TR Chance: 76.27527
+[07:38:34] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:41:40] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[07:41:55] [Server thread/INFO]: [STDOUT]: Random TR Chance: 61.150543
+[07:41:55] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:43:41] [Server thread/INFO]: [STDOUT]: Random TR Chance: 44.77579
+[07:43:41] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:44:19] [Server thread/INFO]: [STDOUT]: Random TR Chance: 89.70186
+[07:44:19] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:49:21] [Server thread/INFO]: chat.type.admin
+[07:49:28] [Server thread/INFO]: chat.type.admin
+[07:53:02] [Server thread/INFO]: [STDOUT]: Random TR Chance: 37.85266
+[07:53:02] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:53:27] [Server thread/INFO]: [STDOUT]: Random TR Chance: 3.1770408
+[07:53:27] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:53:58] [Server thread/INFO]: [STDOUT]: Random TR Chance: 88.56461
+[07:53:58] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:56:01] [Server thread/INFO]: [STDOUT]: Random TR Chance: 99.75867
+[07:56:01] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:56:59] [Server thread/INFO]: [STDOUT]: Random TR Chance: 37.45199
+[07:56:59] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:57:55] [Server thread/INFO]: [STDOUT]: Random TR Chance: 2.9968321
+[07:57:55] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[07:58:44] [Server thread/INFO]: chat.type.admin
+[08:00:34] [Server thread/INFO]: chat.type.admin
+[08:00:37] [Server thread/INFO]: chat.type.admin
+[08:02:10] [Server thread/INFO]: [STDOUT]: Random TR Chance: 79.28696
+[08:02:10] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[08:03:06] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[08:03:23] [Server thread/INFO]: [STDOUT]: Random TR Chance: 60.54127
+[08:03:23] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[08:04:21] [Server thread/INFO]: [STDOUT]: Random TR Chance: 9.284562
+[08:04:21] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[08:05:10] [Server thread/INFO]: [STDOUT]: Random TR Chance: 42.895966
+[08:05:10] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[08:11:04] [Server thread/INFO]: [STDOUT]: Random TR Chance: 55.482258
+[08:11:04] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[08:13:23] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[08:13:40] [Server thread/INFO]: [STDOUT]: Random TR Chance: 77.653946
+[08:13:40] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[08:17:28] [Server thread/INFO]: [STDOUT]: Random TR Chance: 83.46071
+[08:17:28] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[08:17:48] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:78) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:67) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:74) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:69) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at com.cobblemon.mod.common.api.net.ServerNetworkPacketHandler$DefaultImpls.handleOnNettyThread$lambda$0(ServerNetworkPacketHandler.java:19) ~[Cobblemon-fabric-1.5.2+1.20.1.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:742) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:17:59] [Server thread/INFO]: [STDOUT]: Random TR Chance: 4.0735483
+[08:17:59] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[08:23:22] [Server thread/INFO]: Legendaryxxx lost connection: multiplayer.disconnect.generic
+[08:23:22] [Server thread/INFO]: multiplayer.player.left
+[08:26:55] [User Authenticator #4/INFO]: UUID of player Legendaryxxx is 59408d04-a5bc-4e8e-8286-8f88285f783c
+[08:26:55] [Server thread/INFO]: Legendaryxxx[/[0:0:0:0:0:0:0:1%0]:44070] logged in with entity id 175132 at (-6.679108453652667, 136.0, 321.3783791109608)
+[08:26:55] [Server thread/INFO]: Sending server config values to client
+[08:26:56] [Server thread/INFO]: Syncing config to Legendaryxxx (59408d04-a5bc-4e8e-8286-8f88285f783c)
+[08:26:56] [Server thread/INFO]: Loading config from file...
+[08:26:56] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[08:26:56] [Server thread/INFO]: multiplayer.player.joined
+[08:27:40] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[08:27:54] [Server thread/INFO]: [STDOUT]: Random TR Chance: 65.32681
+[08:27:54] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[08:29:37] [Server thread/INFO]: [STDOUT]: Random TR Chance: 94.81866
+[08:29:37] [Server thread/INFO]: [STDOUT]: Random TR config: 100.0
+[08:31:31] [Server thread/INFO]: Legendaryxxx lost connection: multiplayer.disconnect.generic
+[08:31:31] [Server thread/INFO]: multiplayer.player.left
+[08:31:39] [Server thread/INFO]: commands.stop.stopping
+[08:31:39] [Server thread/INFO]: Saved trainers/trainerWins.json
+[08:31:39] [Server thread/INFO]: Saved trainers/timesLastBattled.json
+[08:31:39] [Server thread/INFO]: Stopping server
+[08:31:39] [Server thread/INFO]: Saving players
+[08:31:39] [Server thread/INFO]: Saving worlds
+[08:31:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:31:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08:31:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08:31:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:31:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:31:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:31:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

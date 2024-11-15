@@ -241,47 +241,214 @@
             "status": "SEEN",
             "discoveredTimestamp": 1731477924095
           }
+        },
+        "parasect": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731647039791,
+            "caughtTimestamp": 1731647039791
+          }
+        },
+        "shiinotic": {
+          "normal": {
+            "isShiny": true,
+            "status": "SEEN",
+            "discoveredTimestamp": 1731647481420
+          }
+        },
+        "volcarona": {
+          "normal": {
+            "isShiny": true,
+            "status": "SEEN",
+            "discoveredTimestamp": 1731647507112
+          }
+        },
+        "onix": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731647952574,
+            "caughtTimestamp": 1731647952574
+          }
+        },
+        "heatmor": {
+          "normal": {
+            "isShiny": true,
+            "status": "SEEN",
+            "discoveredTimestamp": 1731648015650
+          }
+        },
+        "ponyta": {
+          "galar": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731648181324,
+            "caughtTimestamp": 1731648181324
+          }
+        },
+        "bellossom": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731648507126,
+            "caughtTimestamp": 1731648507126
+          }
+        },
+        "articuno": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731648903926,
+            "caughtTimestamp": 1731648903926
+          }
+        },
+        "galvantula": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731649069161,
+            "caughtTimestamp": 1731649255576
+          }
+        },
+        "kangaskhan": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731649133673,
+            "caughtTimestamp": 1731649133673
+          }
+        },
+        "machoke": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731649310973,
+            "caughtTimestamp": 1731649310973
+          }
+        },
+        "ursaring": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731649548424,
+            "caughtTimestamp": 1731649548424
+          }
+        },
+        "primeape": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731649926024,
+            "caughtTimestamp": 1731649926024
+          }
+        },
+        "ceruledge": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731650689598,
+            "caughtTimestamp": 1731650719426
+          }
+        },
+        "larvesta": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731650934137,
+            "caughtTimestamp": 1731651136824
+          }
+        },
+        "hariyama": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731653197826,
+            "caughtTimestamp": 1731653197826
+          }
+        },
+        "eevee": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731655264321,
+            "caughtTimestamp": 1731655264321
+          }
+        },
+        "sneasel": {
+          "hisui": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731656456922,
+            "caughtTimestamp": 1731656456922
+          }
+        },
+        "lurantis": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731656943573,
+            "caughtTimestamp": 1731656943573
+          }
+        },
+        "cinccino": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1731658691627
+          }
         }
       },
       "name": "cobbledex_discovery"
     },
     "Cobbledex_RewardHistory": {
       "received": [
-        "15"
+        "15",
+        "30"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 22,
+    "totalCaptureCount": 38,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 30,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 64,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 26,
-    "totalPvNBattleVictoryCount": 4,
-    "totalShinyCaptureCount": 22,
+    "totalPvWBattleVictoryCount": 52,
+    "totalPvNBattleVictoryCount": 12,
+    "totalShinyCaptureCount": 38,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "normal": 4,
-      "flying": 5,
-      "ground": 6,
-      "rock": 5,
-      "poison": 3,
-      "psychic": 1,
+      "normal": 7,
+      "flying": 6,
+      "ground": 7,
+      "rock": 6,
+      "poison": 4,
+      "psychic": 2,
       "steel": 2,
-      "electric": 1,
-      "fire": 3,
-      "ghost": 1,
-      "grass": 1,
-      "fighting": 1
+      "electric": 2,
+      "fire": 5,
+      "ghost": 2,
+      "grass": 4,
+      "fighting": 5,
+      "bug": 4,
+      "ice": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:unfezant": 1,
       "cobblemon:swellow": 1,
       "cobblemon:bunnelby": 1,
       "cobblemon:lopunny": 1,
-      "cobblemon:primeape": 1
+      "cobblemon:primeape": 2,
+      "cobblemon:larvesta": 1,
+      "cobblemon:vivillon": 1,
+      "cobblemon:starly": 1,
+      "cobblemon:fomantis": 1,
+      "cobblemon:ditto": 1,
+      "cobblemon:bouffalant": 2,
+      "cobblemon:stonjourner": 1,
+      "cobblemon:rapidash": 1
     },
     "aspectsCollected": {}
   }
