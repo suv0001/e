@@ -450,6 +450,21 @@
         "discoveredTimestamp": 1731742072385,
         "caughtTimestamp": 1731742072385
       }
+    },
+    "elgyem": {
+      "normal": {
+        "isShiny": true,
+        "status": "SEEN",
+        "discoveredTimestamp": 1731759559453
+      }
+    },
+    "beldum": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1731761712156,
+        "caughtTimestamp": 1731761712156
+      }
     }
   }
 }

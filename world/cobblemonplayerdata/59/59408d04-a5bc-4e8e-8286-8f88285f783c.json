@@ -459,6 +459,21 @@
             "discoveredTimestamp": 1731742072382,
             "caughtTimestamp": 1731742072382
           }
+        },
+        "elgyem": {
+          "normal": {
+            "isShiny": true,
+            "status": "SEEN",
+            "discoveredTimestamp": 1731759559451
+          }
+        },
+        "beldum": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731761712155,
+            "caughtTimestamp": 1731761712155
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -473,14 +488,14 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 44,
+    "totalCaptureCount": 45,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 92,
+    "totalBattleVictoryCount": 93,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 63,
+    "totalPvWBattleVictoryCount": 64,
     "totalPvNBattleVictoryCount": 29,
-    "totalShinyCaptureCount": 44,
+    "totalShinyCaptureCount": 45,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "normal": 7,
@@ -488,8 +503,8 @@
       "ground": 7,
       "rock": 6,
       "poison": 4,
-      "psychic": 4,
-      "steel": 2,
+      "psychic": 5,
+      "steel": 3,
       "electric": 2,
       "fire": 9,
       "ghost": 2,
