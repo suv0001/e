@@ -388,6 +388,68 @@
         "status": "SEEN",
         "discoveredTimestamp": 1731658691628
       }
+    },
+    "tyrantrum": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1731727247207
+      }
+    },
+    "electrode": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1731728722310
+      }
+    },
+    "armarouge": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1731729569034,
+        "caughtTimestamp": 1731729569034
+      }
+    },
+    "darmanitan": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1731732387582,
+        "caughtTimestamp": 1731732387582
+      }
+    },
+    "magmar": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1731734110077,
+        "caughtTimestamp": 1731734110077
+      }
+    },
+    "arcanine": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1731741449829,
+        "caughtTimestamp": 1731741449829
+      }
+    },
+    "hypno": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1731741538677,
+        "caughtTimestamp": 1731741538677
+      }
+    },
+    "sirfetchd": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1731742072385,
+        "caughtTimestamp": 1731742072385
+      }
     }
   }
 }

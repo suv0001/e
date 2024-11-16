@@ -397,6 +397,68 @@
             "status": "SEEN",
             "discoveredTimestamp": 1731658691627
           }
+        },
+        "tyrantrum": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1731727247205
+          }
+        },
+        "electrode": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1731728722309
+          }
+        },
+        "armarouge": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731729569033,
+            "caughtTimestamp": 1731729569033
+          }
+        },
+        "darmanitan": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731732387581,
+            "caughtTimestamp": 1731732387581
+          }
+        },
+        "magmar": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731734110076,
+            "caughtTimestamp": 1731734110076
+          }
+        },
+        "arcanine": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731741449829,
+            "caughtTimestamp": 1731741449829
+          }
+        },
+        "hypno": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731741538676,
+            "caughtTimestamp": 1731741538676
+          }
+        },
+        "sirfetchd": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731742072382,
+            "caughtTimestamp": 1731742072382
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -404,20 +466,21 @@
     "Cobbledex_RewardHistory": {
       "received": [
         "15",
-        "30"
+        "30",
+        "45"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 38,
+    "totalCaptureCount": 44,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 64,
+    "totalBattleVictoryCount": 92,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 52,
-    "totalPvNBattleVictoryCount": 12,
-    "totalShinyCaptureCount": 38,
+    "totalPvWBattleVictoryCount": 63,
+    "totalPvNBattleVictoryCount": 29,
+    "totalShinyCaptureCount": 44,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "normal": 7,
@@ -425,13 +488,13 @@
       "ground": 7,
       "rock": 6,
       "poison": 4,
-      "psychic": 2,
+      "psychic": 4,
       "steel": 2,
       "electric": 2,
-      "fire": 5,
+      "fire": 9,
       "ghost": 2,
       "grass": 4,
-      "fighting": 5,
+      "fighting": 6,
       "bug": 4,
       "ice": 1
     },
@@ -446,9 +509,13 @@
       "cobblemon:starly": 1,
       "cobblemon:fomantis": 1,
       "cobblemon:ditto": 1,
-      "cobblemon:bouffalant": 2,
+      "cobblemon:bouffalant": 3,
       "cobblemon:stonjourner": 1,
-      "cobblemon:rapidash": 1
+      "cobblemon:rapidash": 1,
+      "cobblemon:ponyta": 1,
+      "cobblemon:grimmsnarl": 1,
+      "cobblemon:boltund": 1,
+      "cobblemon:articuno": 1
     },
     "aspectsCollected": {}
   }
