@@ -1,0 +1,94 @@
+{
+  "generations_core:recipes/misc/enigma_shard": {
+    "criteria": {
+      "has_enigma_fragment": "2024-11-25 10:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-25 10:11:59 +0000"
+    },
+    "done": true
+  },
+  "generations_structures:generations_structures/root": {
+    "criteria": {
+      "tick": "2024-11-25 10:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_birch_forest": "2024-11-25 10:11:59 +0000",
+      "minecraft:meadow": "2024-11-25 10:12:14 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:root": {
+    "criteria": {
+      "picked_starter": "2024-11-25 10:15:22 +0000"
+    },
+    "done": true
+  },
+  "megamons:grant_megamons_guide": {
+    "criteria": {
+      "tick": "2024-11-25 10:15:22 +0000"
+    },
+    "done": true
+  },
+  "cobblepedia:grant_cobblepedia": {
+    "criteria": {
+      "picked_starter": "2024-11-25 10:15:22 +0000"
+    },
+    "done": true
+  },
+  "megamons:gen1_megastone": {
+    "criteria": {
+      "has_any_gen1_stone": "2024-11-25 10:26:41 +0000"
+    },
+    "done": true
+  },
+  "megamons:gen1_02_alakazite_stone": {
+    "criteria": {
+      "has_cut_alakazite": "2024-11-25 10:26:41 +0000"
+    },
+    "done": true
+  },
+  "megamons:mega_cuff": {
+    "criteria": {
+      "has_mega_cuff": "2024-11-25 10:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-25 10:31:43 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_leader_brock": {
+    "criteria": {
+      "first_defeat": "2024-11-25 10:56:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2024-11-25 10:53:05 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_any": {
+    "criteria": {
+      "first_defeat": "2024-11-25 10:56:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2024-11-25 10:53:11 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
