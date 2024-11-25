@@ -1,0 +1,188 @@
+{
+  "registers": {
+    "sunflora": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732551174308
+      }
+    },
+    "litten": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732551200023,
+        "caughtTimestamp": 1732551200023
+      }
+    },
+    "budew": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732552232105
+      }
+    },
+    "blipbug": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732552593249
+      }
+    },
+    "manectric": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732552706634,
+        "caughtTimestamp": 1732553927402
+      }
+    },
+    "electrike": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732552803737
+      }
+    },
+    "wynaut": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732553010883
+      }
+    },
+    "spheal": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732553073475
+      }
+    },
+    "eelektrik": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732553149461,
+        "caughtTimestamp": 1732553149461
+      }
+    },
+    "oricorio": {
+      "sensu": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732553578355
+      }
+    },
+    "gumshoos": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732554437115
+      }
+    },
+    "torracat": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732554605672,
+        "caughtTimestamp": 1732554605672
+      }
+    },
+    "girafarig": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732554831551,
+        "caughtTimestamp": 1732554850448
+      }
+    },
+    "farigiraf": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732554857158,
+        "caughtTimestamp": 1732554857158
+      }
+    },
+    "azurill": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732555152988
+      }
+    },
+    "marill": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732555242713,
+        "caughtTimestamp": 1732555242713
+      }
+    },
+    "azumarill": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732555251512,
+        "caughtTimestamp": 1732555251512
+      }
+    },
+    "ledyba": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732556357249
+      }
+    },
+    "gimmighoul": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732556808901,
+        "caughtTimestamp": 1732556808901
+      }
+    },
+    "sunkern": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732557150349
+      }
+    },
+    "hoppip": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732557273745
+      }
+    },
+    "toedscool": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732557308187
+      }
+    },
+    "dottler": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732557372553
+      }
+    },
+    "audino": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732557439442
+      }
+    },
+    "tarountula": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732557465177
+      }
+    }
+  }
+}
