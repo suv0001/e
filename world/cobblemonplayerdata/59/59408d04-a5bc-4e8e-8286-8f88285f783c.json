@@ -11,37 +11,37 @@
       "name": "biomes_visited",
       "biomes": [
         "biomesoplenty:spider_nest",
-        "minecraft:crimson_forest",
-        "minecraft:dark_forest",
-        "biomesoplenty:shrubland",
         "biomesoplenty:overgrown_greens",
-        "biomesoplenty:jacaranda_glade",
-        "minecraft:sunflower_plains",
-        "minecraft:flower_forest",
+        "minecraft:jagged_peaks",
+        "biomesoplenty:grassland",
+        "terralith:steppe",
         "biomesoplenty:moor",
-        "biomesoplenty:orchard",
-        "minecraft:snowy_slopes",
         "terralith:alpine_highlands",
-        "minecraft:lush_caves",
-        "minecraft:old_growth_birch_forest",
         "terralith:shrubland",
-        "biomesoplenty:glowing_grotto",
         "minecraft:ocean",
         "terralith:highlands",
-        "minecraft:birch_forest",
-        "biomesoplenty:redwood_forest",
+        "minecraft:meadow",
+        "biomesoplenty:orchard",
+        "biomesoplenty:shrubland",
         "minecraft:forest",
         "minecraft:dripstone_caves",
-        "biomesoplenty:rocky_shrubland",
-        "minecraft:beach",
-        "minecraft:plains",
-        "biomesoplenty:grassland",
-        "biomesoplenty:lavender_field",
-        "terralith:steppe",
-        "minecraft:jagged_peaks",
-        "minecraft:deep_dark",
+        "minecraft:lush_caves",
+        "minecraft:sunflower_plains",
         "minecraft:river",
-        "minecraft:meadow"
+        "biomesoplenty:jacaranda_glade",
+        "minecraft:deep_dark",
+        "minecraft:crimson_forest",
+        "minecraft:snowy_slopes",
+        "minecraft:birch_forest",
+        "minecraft:beach",
+        "minecraft:flower_forest",
+        "minecraft:plains",
+        "minecraft:dark_forest",
+        "biomesoplenty:rocky_shrubland",
+        "biomesoplenty:lavender_field",
+        "minecraft:old_growth_birch_forest",
+        "biomesoplenty:redwood_forest",
+        "biomesoplenty:glowing_grotto"
       ]
     },
     "cobbledex_discovery": {
@@ -606,6 +606,143 @@
             "discoveredTimestamp": 1732621058390,
             "caughtTimestamp": 1732621093628
           }
+        },
+        "pineco": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1732676365760
+          }
+        },
+        "smoliv": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1732677664655
+          }
+        },
+        "lokix": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732677866645,
+            "caughtTimestamp": 1732678267338
+          }
+        },
+        "rhydon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732678660932,
+            "caughtTimestamp": 1732678660932
+          }
+        },
+        "espathra": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1732678681063
+          }
+        },
+        "nidoranf": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1732679013299
+          }
+        },
+        "banette": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1732679655337
+          }
+        },
+        "axew": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732679882429,
+            "caughtTimestamp": 1732679991583
+          }
+        },
+        "anorith": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732680208415,
+            "caughtTimestamp": 1732680249531
+          }
+        },
+        "slugma": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1732684709016
+          }
+        },
+        "centiskorch": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732684845570,
+            "caughtTimestamp": 1732684902273
+          }
+        },
+        "camerupt": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732684863776,
+            "caughtTimestamp": 1732684971869
+          }
+        },
+        "honedge": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732685468405,
+            "caughtTimestamp": 1732685497170
+          }
+        },
+        "gengar": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732685541669,
+            "caughtTimestamp": 1732685541669
+          }
+        },
+        "magmar": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732689670166,
+            "caughtTimestamp": 1732689670166
+          }
+        },
+        "darmanitan": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732690002668,
+            "caughtTimestamp": 1732690002668
+          }
+        },
+        "charcadet": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1732691160531
+          }
+        },
+        "armarouge": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732691338767,
+            "caughtTimestamp": 1732691338767
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -620,20 +757,31 @@
     "caught": {
       "name": "caught",
       "cobblemon:araquanid": 1,
+      "cobblemon:lokix": 1,
       "cobblemon:diglett": 1,
       "cobblemon:lilligant": 1,
+      "cobblemon:centiskorch": 1,
+      "cobblemon:axew": 1,
+      "cobblemon:rhydon": 1,
       "cobblemon:quagsire": 1,
       "cobblemon:manectric": 1,
       "cobblemon:lapras": 1,
       "cobblemon:girafarig": 1,
       "cobblemon:deino": 1,
       "cobblemon:dudunsparce": 1,
+      "cobblemon:honedge": 1,
       "cobblemon:dreepy": 1,
+      "cobblemon:anorith": 1,
+      "cobblemon:darmanitan": 1,
       "cobblemon:starmie": 1,
+      "cobblemon:gengar": 1,
       "cobblemon:gimmighoul": 1,
       "cobblemon:eelektrik": 1,
+      "cobblemon:camerupt": 1,
       "cobblemon:dragonair": 1,
       "cobblemon:magnemite": 1,
+      "cobblemon:armarouge": 1,
+      "cobblemon:magmar": 1,
       "cobblemon:ledian": 1,
       "cobblemon:mudbray": 1,
       "cobblemon:veluza": 1,
@@ -647,38 +795,40 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 26,
+    "totalCaptureCount": 37,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 66,
+    "totalBattleVictoryCount": 89,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 57,
-    "totalPvNBattleVictoryCount": 9,
+    "totalPvWBattleVictoryCount": 76,
+    "totalPvNBattleVictoryCount": 13,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "electric": 3,
       "normal": 2,
-      "psychic": 3,
+      "psychic": 4,
       "water": 10,
       "fairy": 1,
-      "ghost": 2,
-      "bug": 2,
+      "ghost": 4,
+      "bug": 5,
       "grass": 3,
       "fighting": 2,
-      "steel": 3,
-      "ground": 6,
-      "dark": 1,
-      "dragon": 3,
-      "poison": 1,
+      "steel": 4,
+      "ground": 8,
+      "dark": 2,
+      "dragon": 4,
+      "poison": 2,
       "flying": 1,
-      "ice": 2
+      "ice": 2,
+      "rock": 2,
+      "fire": 5
     },
     "totalDefeatedCounts": {
       "cobblemon:bouffalant": 2,
       "cobblemon:gimmighoul": 1,
       "cobblemon:dottler": 1,
-      "cobblemon:wynaut": 15,
+      "cobblemon:wynaut": 18,
       "cobblemon:golem": 2,
       "cobblemon:gastly": 1,
       "cobblemon:wobbuffet": 2,
@@ -688,7 +838,12 @@
       "cobblemon:dudunsparce": 1,
       "cobblemon:zeraora": 1,
       "cobblemon:spoink": 1,
-      "cobblemon:articuno": 1
+      "cobblemon:articuno": 1,
+      "cobblemon:talonflame": 1,
+      "cobblemon:espathra": 1,
+      "cobblemon:fletchinder": 1,
+      "cobblemon:charcadet": 1,
+      "cobblemon:armarouge": 1
     },
     "aspectsCollected": {}
   }
