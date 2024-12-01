@@ -69,8 +69,9 @@
     "oricorio": {
       "sensu": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1732553578355
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732553578355,
+        "caughtTimestamp": 1733025291037
       },
       "pau": {
         "isShiny": false,
@@ -696,6 +697,230 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1732691338768,
         "caughtTimestamp": 1732691338768
+      }
+    },
+    "gastly": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1733023726986
+      }
+    },
+    "magcargo": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1733024790611
+      }
+    },
+    "staravia": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733025106058,
+        "caughtTimestamp": 1733025154250
+      }
+    },
+    "ferrothorn": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733025723443,
+        "caughtTimestamp": 1733025723443
+      }
+    },
+    "staraptor": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733025757969,
+        "caughtTimestamp": 1733025757969
+      }
+    },
+    "lickilicky": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733025974885,
+        "caughtTimestamp": 1733025974885
+      }
+    },
+    "scyther": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733026631285,
+        "caughtTimestamp": 1733026631285
+      }
+    },
+    "magneton": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733028432940,
+        "caughtTimestamp": 1733028432940
+      }
+    },
+    "ponyta": {
+      "galar": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733028645983,
+        "caughtTimestamp": 1733028645983
+      },
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733071236059,
+        "caughtTimestamp": 1733071236059
+      }
+    },
+    "sprigatito": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733028668801,
+        "caughtTimestamp": 1733028930289
+      }
+    },
+    "orbeetle": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1733029207180
+      }
+    },
+    "phantump": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1733030983083
+      }
+    },
+    "fluttermane": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1733046980419
+      }
+    },
+    "lumineon": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1733048080660
+      }
+    },
+    "staryu": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1733048135402
+      }
+    },
+    "celesteela": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733048810272,
+        "caughtTimestamp": 1733048879928
+      }
+    },
+    "beldum": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733049882771,
+        "caughtTimestamp": 1733049882771
+      }
+    },
+    "stakataka": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733050193770,
+        "caughtTimestamp": 1733050475321
+      }
+    },
+    "latias": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733054840970,
+        "caughtTimestamp": 1733054840970
+      }
+    },
+    "arceus": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733055868471,
+        "caughtTimestamp": 1733055868471
+      }
+    },
+    "forretress": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733057756246,
+        "caughtTimestamp": 1733057791771
+      }
+    },
+    "palkia": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1733057929656
+      }
+    },
+    "giratina": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1733057950548
+      }
+    },
+    "dialga": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1733057984044
+      }
+    },
+    "celebi": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1733058010055
+      }
+    },
+    "darkrai": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1733058051871
+      }
+    },
+    "rayquaza": {
+      "mega": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1733058192799
+      }
+    },
+    "pheromosa": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733067827562,
+        "caughtTimestamp": 1733067988013
+      }
+    },
+    "drapion": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1733071155959
       }
     }
   }
