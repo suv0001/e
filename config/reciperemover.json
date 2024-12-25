@@ -1,0 +1,11 @@
+{
+  "inventoryRecipeBookX": 0,
+  "inventoryRecipeBookY": 0,
+  "printErrorMessage": false,
+  "printRecipesAndAdvancements": false,
+  "removeAllVanillaAdvancements": false,
+  "removeAllAdvancements": false,
+  "recipeList": [],
+  "advancementList": [],
+  "itemList": []
+}
