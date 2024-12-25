@@ -1,0 +1,11 @@
+# © PixelmonMod 2012-2024
+# For assistance visit https://pixelmonmod.com/wiki/Config
+
+# If enabled, wild Pokémon levels will increase as the distance from the world spawn point increases.
+# If disabled, wild Pokémon will spawn with varying levels regardless of the distance from the world spawn point.
+spawn-levels-by-distance: false
+# The maximum level that Pokémon can spawn at when the spawnLevelsByDistance option is enabled.
+max-level-by-distance: 60
+# If the spawnLevelsByDistance setting is enabled, this setting determines the rate (in block distance)
+# that wild Pokémon levels increase according to the distance from the world spawn point.
+distance-per-level: 30
